@@ -1,4 +1,6 @@
 # Gaming Projects
-# Tic tac toe
-# snake game
+
+1. Tic tac toe
+2. Snake
+3. Code Monkey
 
